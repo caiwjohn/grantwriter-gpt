@@ -1,0 +1,6 @@
+# data and scratch
+data/**
+*.pdf
+*.jsonl
+
+.DS_Store
