@@ -4,3 +4,5 @@ data/**
 *.jsonl
 
 .DS_Store
+.venv/
+review/
